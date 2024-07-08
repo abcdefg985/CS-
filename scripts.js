@@ -1,10 +1,10 @@
 // Example data
 const matches = [
-    { round: 1, team1: 'Stealth Hunters', team2: 'Railgun', date: '2024-07-10', time: '15:00', logo1: 'img/stealth_hunters.png', logo2: 'img/railgun.png' },
-    { round: 1, team1: 'Railgun', team2: 'DMAer', date: '2024-07-11', time: '18:00', logo1: 'img/railgun.png', logo2: 'img/dmaer.png' },
-    { round: 2, team1: 'Stealth Hunters', team2: 'DMG', date: '2024-07-12', time: '20:00', logo1: 'img/stealth_hunters.png', logo2: 'img/dmg.png' },
-    { round: 2, team1: 'DMG', team2: 'DMAer', date: '2024-07-13', time: '14:00', logo1: 'img/dmg.png', logo2: 'img/dmaer.png' },
-    { round: 3, team1: 'ROKE', team2: 'SKZAA', date: '2024-07-14', time: '16:00', logo1: 'img/roke.png', logo2: 'img/skzaa.png' }
+    { round: 1, team1: 'Stealth Hunters', team2: 'Railgun', date: '2024-07-8', time: '20:00', logo1: 'img/stealth_hunters.png', logo2: 'img/railgun.png' },
+    { round: 1, team1: 'Railgun', team2: 'DMAer', date: '2024-07-8', time: '20:00', logo1: 'img/railgun.png', logo2: 'img/dmaer.png' },
+    { round: 2, team1: 'Stealth Hunters', team2: 'DMG', date: '2024-07-8', time: '20:00', logo1: 'img/stealth_hunters.png', logo2: 'img/dmg.png' },
+    { round: 2, team1: 'DMG', team2: 'DMAer', date: '2024-07-8', time: '20:00', logo1: 'img/dmg.png', logo2: 'img/dmaer.png' },
+    { round: 3, team1: 'ROKE', team2: 'SKZAA', date: '2024-07-8', time: '20:00', logo1: 'img/roke.png', logo2: 'img/skzaa.png' }
 ];
 
 const teams = ['Stealth Hunters', 'Railgun', 'DMAer', 'DMG', 'ROKE', 'SKZAA'];
